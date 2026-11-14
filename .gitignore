@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+venv/
+venv312/
+__pycache__/
+*.pyc
+
+node_modules/
+dist/
+build/
+
+*.db
+*.sqlite3
